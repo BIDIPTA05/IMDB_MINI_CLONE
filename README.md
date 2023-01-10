@@ -1,4 +1,4 @@
-# IMDB_MINI_CLONE usign Movie DB API
+# IMDB_MINI_CLONE using Movie DB API
 
 ![image](https://user-images.githubusercontent.com/76623158/211639661-ca626023-6dbf-47e3-8ad2-aa0969e7fd0e.png)
 
